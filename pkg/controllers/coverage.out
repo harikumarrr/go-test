@@ -1,0 +1,27 @@
+mode: set
+go-test/pkg/controllers/todo.go:23.31,25.24 1 1
+go-test/pkg/controllers/todo.go:29.2,29.32 1 1
+go-test/pkg/controllers/todo.go:25.24,27.3 1 1
+go-test/pkg/controllers/todo.go:29.32,31.3 1 1
+go-test/pkg/controllers/todo.go:31.8,33.3 1 0
+go-test/pkg/controllers/todo.go:36.34,37.24 1 0
+go-test/pkg/controllers/todo.go:40.2,44.32 5 0
+go-test/pkg/controllers/todo.go:37.24,39.3 1 0
+go-test/pkg/controllers/todo.go:44.32,46.3 1 0
+go-test/pkg/controllers/todo.go:46.8,48.3 1 0
+go-test/pkg/controllers/todo.go:51.31,53.16 2 0
+go-test/pkg/controllers/todo.go:56.2,58.38 3 0
+go-test/pkg/controllers/todo.go:64.2,64.14 1 0
+go-test/pkg/controllers/todo.go:67.2,67.29 1 0
+go-test/pkg/controllers/todo.go:53.16,55.3 1 0
+go-test/pkg/controllers/todo.go:58.38,59.24 1 0
+go-test/pkg/controllers/todo.go:59.24,62.4 2 0
+go-test/pkg/controllers/todo.go:64.14,66.3 1 0
+go-test/pkg/controllers/todo.go:70.34,72.16 2 0
+go-test/pkg/controllers/todo.go:75.2,75.36 1 0
+go-test/pkg/controllers/todo.go:80.2,80.16 1 0
+go-test/pkg/controllers/todo.go:72.16,74.3 1 0
+go-test/pkg/controllers/todo.go:75.36,76.43 1 0
+go-test/pkg/controllers/todo.go:76.43,78.4 1 0
+go-test/pkg/controllers/todo.go:80.16,82.3 1 0
+go-test/pkg/controllers/todo.go:82.8,84.3 1 0
